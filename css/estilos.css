@@ -1,4 +1,21 @@
 body{
 	background-color: #DDDDF7;
 color:black;}
- 
+ p{
+ 	background-color: #1780B6;
+ 	color: white;
+ }
+ h1{
+ 	background-color: #1780B6;
+ 	color: white;
+ 	text
+ }
+ pre{
+ 	background-color: #1A8419;
+ 	color: red;
+ }	
+ .pa1{
+ 	background-color: #090702;
+ 	color: white;
+ 	text-aling: right;
+ }
